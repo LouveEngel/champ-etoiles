@@ -2,12 +2,12 @@
 
 Coding Challenges #1 : Champ d'étoiles
 
-# Description :
+## Description :
 
 - Le programme crée un champ d'étoiles.
 - Si vous déplacez la souris vers la droite, les étoiles se déplacent plus rapidement.
 
-# Détails :
+## Détails :
 
 Codé avec Processing en novembre 2022
 
