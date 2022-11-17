@@ -2,7 +2,7 @@
 
 Coding Challenges #1 : Champ d'étoiles
 
-![Champ d'étoiles](Champ_d_etoiles/champ_etoiles/banner.png)
+![Champ d'étoiles](https://github.com/LouveEngel/Champ_d_etoiles/blob/main/champ_etoiles/banner.png)
 
 ## Description :
 
