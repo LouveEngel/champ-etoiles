@@ -2,6 +2,8 @@
 
 Coding Challenges #1 : Champ d'étoiles
 
+![champ_etoiles](Champ_d_etoiles/champ_etoiles/banner.png)
+
 ## Description :
 
 - Le programme crée un champ d'étoiles.
