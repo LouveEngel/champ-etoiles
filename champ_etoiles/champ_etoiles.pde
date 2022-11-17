@@ -11,6 +11,9 @@ void setup() {
   // Taille d'écran de 800x800
   size (800, 800);
   
+  // Titre
+  surface.setTitle("Coding Challenges #1 : Champ d'étoiles");
+  
   // Initialise les étoiles
   for (int i = 0; i < stars.length; i++) {
     stars[i] = new Star();
