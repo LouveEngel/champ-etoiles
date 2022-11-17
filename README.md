@@ -2,7 +2,7 @@
 
 Coding Challenges #1 : Champ d'étoiles
 
-![champ_etoiles](Champ_d_etoiles/champ_etoiles/banner.png)
+![Champ d'étoiles](Champ_d_etoiles/champ_etoiles/banner.png)
 
 ## Description :
 
