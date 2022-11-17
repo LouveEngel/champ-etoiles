@@ -6,8 +6,9 @@ Coding Challenges #1 : Champ d'étoiles
 
 ## Description :
 
-- Le programme crée un champ d'étoiles.
-- Si vous déplacez la souris vers la droite, les étoiles se déplacent plus rapidement.
+- Vous aimez Mario ? Vous allez adorer ce champ d'étoiles !!!
+- En effet, le programme crée un champ d'étoiles multicolore !!!
+- De plus, si vous déplacez la souris vers la droite, les étoiles se déplacent plus rapidement !!!
 
 ## Détails :
 
