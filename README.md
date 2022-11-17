@@ -9,6 +9,6 @@ Coding Challenges #1 : Champ d'étoiles
 
 ## Détails :
 
-Codé avec Processing en novembre 2022
+Codé avec Processing en octobre 2022
 
 Inpiré de [cette vidéo youtube](https://youtu.be/17WoOqgXsRM)
